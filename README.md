@@ -16,7 +16,7 @@ I have completed 30% of the project.I will complete the remaining, once I get th
 
 ## Flutter Plugin
 [plug-in package](https://flutter.io/developing-packages/),
-a specialized package that includes platform-specific implementation code for
+a specialize package that includes platform-specific implementation code for
 Android and/or iOS.
 
 
